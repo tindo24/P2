@@ -9,12 +9,11 @@
 This is a password generator using XKCD password generator
 
 
-I used commmon words file to generate number of words. 
+It generates passwords that are easy to remmember. 
 
 
-I used arrays to generate number and special characters
-
-I also implemented max input number to less than 10  and restricted input data to numbers only. 
+You can combine words, numbers and special characters for your password
+ 
 <h4> Demo Instruction</h4>
 
 
@@ -22,6 +21,8 @@ I'm planning on attending and presenting during the session
 
 
 <h4>Note to TA</h4>
+
+The input can only be numbers less than 9. Also I have restricted input of letters.
 
 
 I did not use logic file, all my code is in index.php
