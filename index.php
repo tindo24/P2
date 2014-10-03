@@ -81,7 +81,7 @@ if ( isset($_POST['Special_Character'])){
 
 <p class='output'><?php echo $commonWords.$retNumber.$retSpecialChar; ?> </p>
 
-<form method='Post' Action= 'Hello World.php'>
+<form method='Post' Action= 'index.php'>
 <label for="numberPass"> # of Words</label>
 <input type="number" min="1" max="9" name="numberPass"> <br>
 <input type="checkbox" name="add_number" value="Number">
